@@ -1,0 +1,108 @@
+# ===== Common =====
+
+# Virtual environments
+venv/
+.venv/
+.venv311/
+ENV/
+env/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+*.egg
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.bak
+temp/
+
+# ===== Classification (Aadi's part) =====
+
+# Data files (too large for git)
+classification/*.bin
+classification/*.hex
+classification/*.npy
+classification/*.npz
+classification/*.png
+!classification/results/graphs/*.png
+classification/*.jpg
+
+# Fragment datasets
+classification/datasets/fragments/
+classification/datasets/train/
+classification/datasets/val/
+classification/datasets/test/
+
+# Prediction input/output
+classification/predict_input/*.bin
+classification/predictions_*.csv
+
+# Saved models (too large for git — retrain locally)
+classification/saved_models/random_forest/
+classification/saved_models/cnn/
+classification/saved_models/xgboost/
+
+# Generated graphs at root of results/ (regenerated via generate_graphs.py)
+classification/results/*.png
+classification/results/*.pdf
+
+# Report images (regenerated via generate_report_graphs.py)
+classification/report/report_images/
+
+# ===== Clustering (Prathamesh's part) =====
+
+# Data files
+clustering/*.bin
+clustering/*.hex
+clustering/*.npy
+clustering/*.npz
+
+# Dataset fragments
+clustering/Train/
+clustering/sequence/dataset/
+
+# Model files
+clustering/*.h5
+clustering/*.pkl
+clustering/*.pt
+clustering/*.pth
+clustering/*.ckpt
+clustering/*.pb
+
+# Plots and visualizations
+clustering/*.png
+clustering/*.jpg
+clustering/*.jpeg
+!clustering/results/visualizations/*.png
+
+# CSV files
+clustering/*.csv
+
+# ===== Root-level =====
+*.zip

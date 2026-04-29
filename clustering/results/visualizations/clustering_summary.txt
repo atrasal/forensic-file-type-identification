@@ -1,0 +1,158 @@
+======================================================================
+CLUSTERING QUALITY METRICS
+======================================================================
+
+Total Fragments: 180
+Total Clusters: 13
+Noise/Unclustered: 0
+Silhouette Score (Cosine): -0.2367
+  (Range: -1 to 1; closer to 1 is better)
+
+======================================================================
+PER-CLUSTER STATISTICS
+======================================================================
+
+Cluster 0:
+  Fragment Count: 10
+  File Type Distribution:
+    - 7ZIP: 10
+  Sample Fragments:
+    - 0021-7z-bzip2_trimmed_frag9_7zip.bin
+    - 0084-7z-bzip2_trimmed_frag1071_7zip.bin
+    - 0051-7z-bzip2_trimmed_frag1012_7zip.bin
+    - 0045-7z-bzip2_trimmed_frag408_7zip.bin
+    - 0096-7z-bzip2_trimmed_frag1732_7zip.bin
+
+Cluster 1:
+  Fragment Count: 10
+  File Type Distribution:
+    - APK: 10
+  Sample Fragments:
+    - 0067-apk_trimmed_frag573_apk.bin
+    - 0014-apk_trimmed_frag85_apk.bin
+    - 0046-apk_trimmed_frag364_apk.bin
+    - 0094-apk_trimmed_frag132_apk.bin
+    - 0066-apk_trimmed_frag476_apk.bin
+
+Cluster 10:
+  Fragment Count: 10
+  File Type Distribution:
+    - MP4: 10
+  Sample Fragments:
+    - 0033-mp4-from-web_trimmed_frag525_mp4.bin
+    - 0007-mp4-from-web_trimmed_frag219_mp4.bin
+    - 0041-mp4-from-web_trimmed_frag133_mp4.bin
+    - 0026-mp4-from-web_trimmed_frag54_mp4.bin
+    - 0025-mp4-from-web_trimmed_frag211_mp4.bin
+
+Cluster 11:
+  Fragment Count: 10
+  File Type Distribution:
+    - PDF: 10
+  Sample Fragments:
+    - 0083-pdf_trimmed_frag57_pdf.bin
+    - 0074-pdf_trimmed_frag188_pdf.bin
+    - 0036-pdf_trimmed_frag139_pdf.bin
+    - 0055-pdf_trimmed_frag204_pdf.bin
+    - 0055-pdf_trimmed_frag245_pdf.bin
+
+Cluster 12:
+  Fragment Count: 10
+  File Type Distribution:
+    - TIF: 10
+  Sample Fragments:
+    - 0051-tif-resized_trimmed_frag350_tif.bin
+    - 0050-tif-resized_trimmed_frag22_tif.bin
+    - 0032-tif-resized_trimmed_frag421_tif.bin
+    - 0061-tif-resized_trimmed_frag177_tif.bin
+    - 0057-tif-resized_trimmed_frag6_tif.bin
+
+Cluster 2:
+  Fragment Count: 60
+  File Type Distribution:
+    - BIN: 60
+  Sample Fragments:
+    - 0094-css_trimmed_frag13_css.bin
+    - 336155_trimmed_frag_00057.bin
+    - 0052-tar_trimmed_frag389_tar.bin
+    - 142143_trimmed_frag_00106.bin
+    - 0021-bin_trimmed_frag60_bin.bin
+
+Cluster 3:
+  Fragment Count: 10
+  File Type Distribution:
+    - BMP: 10
+  Sample Fragments:
+    - 0032-bmp-from-web_trimmed_frag19_bmp.bin
+    - 0041-bmp-from-web_trimmed_frag99_bmp.bin
+    - 0070-bmp-from-web_trimmed_frag7_bmp.bin
+    - 0090-bmp-from-web_trimmed_frag177_bmp.bin
+    - 0064-bmp-from-web_trimmed_frag83_bmp.bin
+
+Cluster 4:
+  Fragment Count: 10
+  File Type Distribution:
+    - DLL: 10
+  Sample Fragments:
+    - 0058-dll_trimmed_frag147_dll.bin
+    - 0028-dll_trimmed_frag961_dll.bin
+    - 0037-dll_trimmed_frag0_dll.bin
+    - 0028-dll_trimmed_frag4469_dll.bin
+    - 0017-dll_trimmed_frag202_dll.bin
+
+Cluster 5:
+  Fragment Count: 10
+  File Type Distribution:
+    - ELF: 10
+  Sample Fragments:
+    - 0089-so_trimmed_frag41_elf.bin
+    - 0078-so_trimmed_frag4_elf.bin
+    - 0089-so_trimmed_frag34_elf.bin
+    - 0089-so_trimmed_frag95_elf.bin
+    - 0099-so_trimmed_frag34_elf.bin
+
+Cluster 6:
+  Fragment Count: 10
+  File Type Distribution:
+    - HTML: 10
+  Sample Fragments:
+    - 0018-html_trimmed_frag3_html.bin
+    - 0019-html_trimmed_frag10_html.bin
+    - 0008-html_trimmed_frag7_html.bin
+    - 0013-html_trimmed_frag4_html.bin
+    - 0086-html_trimmed_frag0_html.bin
+
+Cluster 7:
+  Fragment Count: 10
+  File Type Distribution:
+    - JAVASCRIPT: 10
+  Sample Fragments:
+    - 0075-js_trimmed_frag17_javascript.bin
+    - 0012-js_trimmed_frag171_javascript.bin
+    - 0012-js_trimmed_frag408_javascript.bin
+    - 0012-js_trimmed_frag85_javascript.bin
+    - 0012-js_trimmed_frag149_javascript.bin
+
+Cluster 8:
+  Fragment Count: 10
+  File Type Distribution:
+    - JSON: 10
+  Sample Fragments:
+    - 0794-json_trimmed_frag32_json.bin
+    - 0219-json_trimmed_frag3_json.bin
+    - 0169-json_trimmed_frag6_json.bin
+    - 0364-json_trimmed_frag0_json.bin
+    - 0693-json_trimmed_frag16_json.bin
+
+Cluster 9:
+  Fragment Count: 10
+  File Type Distribution:
+    - MP3: 10
+  Sample Fragments:
+    - 0087-mp3_trimmed_frag66_mp3.bin
+    - 0094-mp3_trimmed_frag122_mp3.bin
+    - 0029-mp3_trimmed_frag113_mp3.bin
+    - 0062-mp3_trimmed_frag98_mp3.bin
+    - 0074-mp3_trimmed_frag67_mp3.bin
+
+======================================================================
