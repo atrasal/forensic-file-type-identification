@@ -47,7 +47,7 @@ Each part has its own setup. Navigate to the respective directory:
 
 ```bash
 # Clone
-git clone <your-repo-url>
+git clone <[github](https://github.com/atrasal/forensic-file-type-identification)>
 cd forensics
 
 # --- Classification ---
